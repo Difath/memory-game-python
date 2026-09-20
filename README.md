@@ -13,7 +13,7 @@ A classic **Memory Game** implemented in Python using the `tkinter` library for 
   - **Easy (Fácil)**: 6x4 Grid (12 pairs)
   - **Medium (Médio)**: 8x4 Grid (16 pairs)
   - **Hard (Difícil)**: 10x4 Grid (20 pairs)
-- **Highscore Tracking**: Saves your best score (fewest moves to win) for each difficulty level locally using the Python `shelve` module.
+- **Highscore Tracking**: Saves your best score (fewest moves to win) for each difficulty level locally.
 - **Visual Feedback**: Cards reveal themselves smoothly with a 1-second delay upon a mismatch to allow the player to memorize the positions.
 - **Dynamic Board**: Shuffles the deck automatically on every new game.
 
@@ -22,7 +22,7 @@ A classic **Memory Game** implemented in Python using the `tkinter` library for 
 - **Language:** Python 3
 - **GUI Framework:** Tkinter (Native Python)
 - **Image Processing:** Pillow (`PIL`)
-- **Data Persistence:** `shelve` (Native Python)
+- **Data Persistence:** Local Data File (Native Python)
 
 ## 🚀 Quick Start
 
