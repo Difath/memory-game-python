@@ -1,8 +1,5 @@
 # Memory Game (Jogo da Memória)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A classic **Memory Game** implemented in Python using the `tkinter` library for the graphical interface and `Pillow` (PIL) for image processing. The game features three difficulty levels, dynamic board generation, and a persistent high-score tracking system.
 
